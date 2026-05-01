@@ -1,0 +1,12 @@
+cause,expected_sign,n_fits,mean_abs_z,sign_ok_rate
+dlog_gdp_per_capita,-1,3,4.093713854529073,1.0
+d_tax_burden,1,4,2.298806807925254,0.25
+d_direct_tax_share,1,4,1.4496356256742737,0.25
+d_unemployment_rate,1,1,1.4051174199029148,1.0
+d_corruption_perceptions,-1,3,1.3584933177715985,0.6666666666666666
+d_government_effectiveness,-1,6,1.1275673152819132,0.5
+d_rule_of_law,-1,5,0.9838847857331802,0.6
+d_economic_freedom,-1,3,0.9149390921619167,0.6666666666666666
+d_business_freedom,-1,4,0.7365454643126286,0.25
+d_fiscal_freedom,-1,7,0.7179478407689116,0.42857142857142855
+d_gov_expenditure_share,1,4,0.3182918799967689,0.5

@@ -1,0 +1,5 @@
+,A_classical_MIMIC,B_hybrid,C_standalone_CDA,D_electricity
+A_classical_MIMIC,1.0,0.451,-0.537,0.009
+B_hybrid,0.451,1.0,-0.53,-0.122
+C_standalone_CDA,-0.537,-0.53,1.0,0.431
+D_electricity,0.009,-0.122,0.431,1.0
